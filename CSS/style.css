@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.for_header {
+    background-color:#181818;
+    padding: 24px 0;
+}
+
+.for_header_div {
+    max-width: 1200px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.for_head_logo {
+    margin-left: 32px
+}
+
+.for_header_ul {
+    list-style: none; display: flex;
+}
+
+.for_header_a_Business {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.for_header_a_Images {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.for_header_a_Gear {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.for_header_a_Contact {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+.for_header_a_Template {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    letter-spacing: 0.4px;
+    background: #FFFFFF;
+    border-radius: 14px;
+    padding: 9px 20px 13px 20px;
+    color: #000000;
+}
+
+.for_header_li_Featured {
+    margin-left: 56px;
+}
+
+.for_header_li_Gear {
+    margin-left: 32px;
+}
+
+.for_header_li_Contact {
+    margin-left: 32px
+}
+
+.for_header_li_Template {
+    margin-left: 31px;
+}
+
+.for_main_section {
+    background-image: url("../images/bg_main.jpg");
+    background-size: cover;
+    height: 100vh; display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 71px;
+    box-sizing: border-box;
+}
+
+.for_section_div {
+    max-width: 580px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.for_Form {
+    padding: 150px;
+}
+
+.for_Form_div {
+    max-width: 564px;
+}
+
+.for_Form_label {
+    display: block;
+}
+
+.for_Form_input {
+    width: 100%; box-sizing: border-box;
+}
+
+.for_File_label {
+    display: block;
+}
+
+.for_label_message {
+    display: block;
+}
+.for_label_textarea {
+    height: 150px; resize: none;
+}
+
+.for_City {
+    display: block;
+}
+
+.for_h2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #C0C0C0;
+}
+
+
+.for_h1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 59px;
+    /* identical to box height, or 110% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.for_Paragraph {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    text-align: center;
+
+    color: #C0C0C0;
+}
