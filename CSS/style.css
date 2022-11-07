@@ -182,3 +182,71 @@
 
     color: #C0C0C0;
 }
+/*----------------------------*/
+
+
+.fixed_location {
+    right: 40px;
+    bottom: 40px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    position: absolute;
+
+}
+
+.fixed_location li {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}
+
+.fixed_location li:before {
+    content: "";
+    display: inline-block;
+    background-image: url("../images/Combined-Shape.svg");
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+
+}
+
+.fixed_location li:nth-child(2):before {
+    background-image: url("../images/Combined-Shape (1).svg");
+}
+
+.fixed_location li:nth-child(3):before {
+    background-image: url("../images/Combined-Shape (2).svg");
+    width: 32px;
+}
+
+.fixed_location li:nth-child(4):before {
+    background-image: url("../images/Loc.svg" );
+    width: 10px;
+}
+
+.sunset {
+    background-image: url("../images/Mount.jpg");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+
+.sunset .sub_container {
+    max-width: 298px;
+    margin-right: 62px;
+
+}
+
