@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79987e50-fd47-4c5c-970b-b5025477b1d1" name="Changes" comment="Aperture++">
+    <list default="true" id="79987e50-fd47-4c5c-970b-b5025477b1d1" name="Changes" comment="Aperture 6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,7 +71,7 @@
       <workItem from="1667639871345" duration="7368000" />
       <workItem from="1667822578419" duration="230000" />
       <workItem from="1668084301528" duration="4834000" />
-      <workItem from="1668089444879" duration="1512000" />
+      <workItem from="1668089444879" duration="2476000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1667822662077</created>
@@ -113,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668090723371</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aperture 6">
+      <created>1668091018264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668091018265</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Aperture 6">
+      <created>1668091231958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668091231958</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +153,7 @@
     <MESSAGE value="Aperture+5" />
     <MESSAGE value="Aperture+5_section" />
     <MESSAGE value="Aperture++" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aperture++" />
+    <MESSAGE value="Aperture 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aperture 6" />
   </component>
 </project>
