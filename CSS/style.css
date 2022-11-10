@@ -3,6 +3,17 @@
     margin: 0;
 }
 
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.d_flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .for_header {
     background-color:#181818;
     padding: 24px 0;
@@ -102,13 +113,36 @@
     align-items: flex-end;
     padding-bottom: 71px;
     box-sizing: border-box;
+    position: relative;
 }
 
-.for_section_div {
+.for_main_section div {
     max-width: 580px;
     text-align: center;
     color: #FFFFFF;
 }
+
+.for_main_section h2 {
+    font: 14px/20px 'Poppins', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.for_main_section h1{
+    font: 54px/59px 'Poppins', sans-serif;
+    text-align: center;
+    color: #FFFFFF;"
+}
+.for_main_section p {
+    font: 14px/20px 'Poppins', sans-serif;
+    text-align: center;
+    color: #C0C0C0;"
+}
+
+
+
+
+
 
 .for_Form {
     padding: 150px;
@@ -244,9 +278,149 @@
 
 }
 
-.sunset .sub_container {
+.sunset .sub_container, .leafs .sub_container, .star_fall .sub_container {
     max-width: 298px;
     margin-right: 62px;
+}
+
+
+.sunset h4, .leafs h4, .star_fall h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+.sunset, .leafs, .star_fall {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: #C0C0C0;
+}
+
+
+.leafs {
+    background-image: url("../images/Leafs_bg.jpg");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+
+.past_clients {
+    background-color: black;
+    min-height: 500px;
+    box-sizing: border-box;
+    padding-top: 113px;
+    padding-bottom: 140px;
+}
+
+
+.past_clients h2, .help h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    line-height: 42px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+
+.past_clients p, .help p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    color: #C0C0C0;
+    padding-bottom: 82px;
+}
+
+
+.past_clients a {
+    max-width: 128px;
+}
+
+
+.star_fall {
+    background-image: url("../images/Mount_bg.jpg");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+
+.help {
+    background-color: black;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    padding-top: 113px;
+    padding-bottom: 108px;
+}
+
+
+.help div{
+    max-width:571px;
+    margin: auto;
+}
+
+
+.help p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    font-style: normal;
+    font-weight: 400;
+    color: #C0C0C0;
+    padding-bottom: 22px;
+}
+
+
+.help a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    color: #000000;
+    height: 42px;
+    text-decoration: none;
+    align-items: center;
+    display: inline-flex;
+    background: #FFFFFF;
+    border-radius: 14px;
+    padding-right: 10px;
+}
+
+
+.help a:before{
+    content: "";
+    display: inline-block;
+    background-color: black;
+    width: 32px;
+    height: 32px;
+    border-radius: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
 
 }
+
 
