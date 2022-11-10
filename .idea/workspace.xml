@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79987e50-fd47-4c5c-970b-b5025477b1d1" name="Changes" comment="Aperture+5_section">
+    <list default="true" id="79987e50-fd47-4c5c-970b-b5025477b1d1" name="Changes" comment="Aperture++">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <workItem from="1667639871345" duration="7368000" />
       <workItem from="1667822578419" duration="230000" />
       <workItem from="1668084301528" duration="4834000" />
-      <workItem from="1668089444879" duration="1130000" />
+      <workItem from="1668089444879" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1667822662077</created>
@@ -99,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668090304885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aperture+5_section">
+      <created>1668090636297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668090636297</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aperture++">
+      <created>1668090723371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668090723371</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +134,9 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Aperture+5section" />
     <MESSAGE value="Aperture+5sec" />
+    <MESSAGE value="Aperture+5" />
     <MESSAGE value="Aperture+5_section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aperture+5_section" />
+    <MESSAGE value="Aperture++" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aperture++" />
   </component>
 </project>
