@@ -307,7 +307,7 @@
 
 
 .leafs {
-    background-image: url("../images/Leafs_bg.jpg");
+    background-image: url("/images/Leafs_bg.jpg");
     background-size: cover;
     min-height: 600px;
     position: relative;
@@ -356,7 +356,7 @@
 
 
 .star_fall {
-    background-image: url("../images/Mount_bg.jpg");
+    background-image: url("/images/Mount_bg.jpg");
     background-size: cover;
     min-height: 600px;
     position: relative;
